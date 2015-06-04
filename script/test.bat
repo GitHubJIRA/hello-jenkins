@@ -1,1 +1,1 @@
-C:\Users\Support\Documents\GitHub\hello-jenkins\node_modules\.bin\mocha C:\Users\Support\Documents\GitHub\hello-jenkins\test\test.js
+C:\Users\admin\Documents\GitHub\hello-jenkins\node_modules\.bin\mocha C:\Users\admin\Documents\GitHub\hello-jenkins\test\test.js
